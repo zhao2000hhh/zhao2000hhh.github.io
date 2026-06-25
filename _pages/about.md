@@ -39,3 +39,7 @@ See the [Publications](/publications/) page for the full list, and my [CV](/cv/)
 Beyond Research
 ======
 Outside the lab I enjoy sports — skiing, badminton, fitness, and rock climbing.
+
+Academic Service
+======
+I serve as a reviewer for **ICML** (recognized as an **Outstanding / Gold Reviewer**) and **NeurIPS**, as well as for the journals **IEEE TIP**, **ACM TOMM**, and **IEEE TMM**.
