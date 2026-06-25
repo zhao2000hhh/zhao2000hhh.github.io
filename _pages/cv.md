@@ -31,10 +31,10 @@ Experience
   * Explored an O3-style dynamic zoom mechanism in MLLMs for fine-grained perception, improving the model's perception and use of local key information in complex visual scenes.
 
 * **Baidu**, Computer Vision Department — Intelligent Poster Design with MLLM, 2024.04 – 2024.12
-  * Developed and deployed MLLM-based layout design algorithms for intelligent poster generation. Related work published at **ICCV 2025 (Highlight)**.
+  * Developed and deployed MLLM-based layout design algorithms for intelligent poster generation. Related work published at ICCV 2025 (Highlight).
 
 * **Microsoft Research Asia**, Image Inpainting, 2022.12 – 2023.08
-  * Research and deployment on image inpainting, targeting real-world image cleanup and completion. Related work published in **Pattern Recognition**.
+  * Research and deployment on image inpainting, targeting real-world image cleanup and completion. Related work published in Pattern Recognition.
 
 Skills
 ======
@@ -57,6 +57,6 @@ Awards
 
 Academic Service
 ======
-* Reviewer for **ICML** (**Outstanding / Gold Reviewer**), **NeurIPS**
-* Reviewer for **IEEE TIP**, **ACM TOMM**, **IEEE TMM**
+* Reviewer for ICML (Outstanding / Gold Reviewer), NeurIPS
+* Reviewer for IEEE TIP, ACM TOMM, IEEE TMM
 
