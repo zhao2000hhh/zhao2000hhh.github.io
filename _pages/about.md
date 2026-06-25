@@ -24,7 +24,7 @@ News
 ======
 - **2026.06** — Started as a research intern at **Meituan**, LongCat-Next pre-training group.
 - **2026.05** — *TexEditor* accepted to **ICML 2026**.
-- **2026.04** — Two papers (*UniPPTBench*, *Adaptive Input Reformulation for Image Editing*) submitted to **ACM MM 2026**.
+- **2026.04** — Two papers (*UniPPTBench*, *Adaptive Input Reformulation for Image Editing*) released on **arXiv**.
 - **2025.09** — Received M.S. degree from **Beijing Institute of Technology**.
 - **2025.06** — *SEGA* accepted to **ICCV 2025** as a **Highlight**.
 
