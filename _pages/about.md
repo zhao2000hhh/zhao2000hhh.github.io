@@ -22,17 +22,17 @@ Research Interests
 
 News
 ======
-- *2026.06* — Started as a research intern at Meituan, LongCat-Next pre-training group.
-- *2026.05* — **TexEditor** accepted to **ICML 2026**.
-- *2026* — Two papers (**UniPPTBench**, **Adaptive Input Reformulation for Image Editing**) submitted to **ACM MM 2026**.
-- *2025.06* — **SEGA** accepted to **ICCV 2025** as a **Highlight**.
-- *2025.09* — Received M.S. degree from Beijing Institute of Technology.
+- **2026.06** — Started as a research intern at **Meituan**, LongCat-Next pre-training group.
+- **2026.05** — *TexEditor* accepted to **ICML 2026**.
+- **2026.04** — Two papers (*UniPPTBench*, *Adaptive Input Reformulation for Image Editing*) submitted to **ACM MM 2026**.
+- **2025.09** — Received M.S. degree from **Beijing Institute of Technology**.
+- **2025.06** — *SEGA* accepted to **ICCV 2025** as a **Highlight**.
 
 Selected Publications
 ======
-- **TexEditor: Structure-Preserving Text-Driven Texture Editing.** *ICML 2026* (first author).
-- **SEGA: A Stepwise Evolution Paradigm for Content-Aware Layout Generation with Design Prior.** *ICCV 2025 Highlight* (student first author, corresponding author).
-- **Learning Position-Aware Implicit Neural Network for Real-World Image Inpainting.** *Pattern Recognition* (first author).
+- **TexEditor: Structure-Preserving Text-Driven Texture Editing.**<br>*ICML 2026* &nbsp;·&nbsp; First author.
+- **SEGA: A Stepwise Evolution Paradigm for Content-Aware Layout Generation with Design Prior.**<br>*ICCV 2025 (Highlight)* &nbsp;·&nbsp; Student first author, corresponding author.
+- **Learning Position-Aware Implicit Neural Network for Real-World Image Inpainting.**<br>*Pattern Recognition* &nbsp;·&nbsp; First author.
 
 See the [Publications](/publications/) page for the full list, and my [CV](/cv/) for more details.
 
